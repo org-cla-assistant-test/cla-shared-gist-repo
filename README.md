@@ -2,3 +2,5 @@
 
 
 # Test status api
+
+# Test multiple commits status
